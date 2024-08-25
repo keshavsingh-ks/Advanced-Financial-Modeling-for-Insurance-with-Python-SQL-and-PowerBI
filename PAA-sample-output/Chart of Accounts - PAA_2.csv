@@ -1,0 +1,25 @@
+,Period,Statement,Group,Account Name,Amount
+0,2.0,BS,ECF,Premiums,689831.0
+1,2.0,BS,ECF,Renewal Commission,-34492.0
+2,2.0,BS,ECF,Maintenance Expense Attributable,-27052.0
+3,2.0,BS,ECF,Maintenance Expense Non-Attributable,-18035.0
+4,2.0,BS,ECF,Claims,-45087.0
+5,2.0,BS,ACF,Premiums,689831.0
+6,2.0,BS,ACF,Renewal Commission,-34492.0
+7,2.0,BS,ACF,Maintenance Expense Attributable,-27052.0
+8,2.0,BS,ACF,Maintenance Expense Non-Attributable,-18035.0
+9,2.0,BS,ACF,Claims,-45087.0
+10,2.0,BS,ERA,Claims,-6763.0
+11,2.0,BS,ARA,Claims,-6763.0
+12,2.0,BS,LRC,Premium Cash Flow,689831.0
+13,2.0,BS,LRC,Acquisition Cost Amortisation,2105.0
+14,2.0,BS,LRC,Insurance Revenue,-487674.0
+15,2.0,BS,LIC,Risk Adjustment for Non-Financial Risk OB,-8400.0
+16,2.0,BS,LIC,Estimates of the Present Value of Future Cash Flows EO,106631.0
+17,2.0,BS,LIC,Risk Adjustment for Non-Financial Risk EO,467.0
+18,2.0,BS,LIC,Estimates of the Present Value of Future Cash Flows AO,-106631.0
+19,2.0,BS,ICL,Liability for Incurred Claims,-7933.0
+20,2.0,BS,ICL,Liability for Remaining Coverage,682465.0
+21,2.0,PL,PLIR,Insurance Service Revenue,487674.0
+22,2.0,PL,PLIE,Insurance Service Expense,-107097.0
+23,2.0,PL,PLOE,Other Expenses,-18035.0

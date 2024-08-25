@@ -1,0 +1,36 @@
+,Period,Statement,Group,Account Name,Amount
+0,17.0,BS,BEL,Expected Cash Inflows,314119.0
+1,17.0,BS,BEL,Expected Cash Outflows,-114253.0
+2,17.0,BS,BEL,Insurance Service Expense,-9850.0
+3,17.0,BS,ECF,Premiums,314119.0
+4,17.0,BS,ECF,Renewal Commission,-15706.0
+5,17.0,BS,ECF,Maintenance Expense Attributable,-12318.0
+6,17.0,BS,ECF,Maintenance Expense Non-Attributable,-8212.0
+7,17.0,BS,ECF,Claims,-86229.0
+8,17.0,BS,ACF,Premiums,314119.0
+9,17.0,BS,ACF,Renewal Commission,-15706.0
+10,17.0,BS,ACF,Maintenance Expense Attributable,-12318.0
+11,17.0,BS,ACF,Maintenance Expense Non-Attributable,-8212.0
+12,17.0,BS,ACF,Claims,-86229.0
+13,17.0,BS,ERA,Claims,-12934.0
+14,17.0,BS,ARA,Claims,-12934.0
+15,17.0,BS,CSM,Insurance Service Expense,38375.0
+16,17.0,BS,CSM,Changes Related to Current Service: Release,-350553.0
+17,17.0,BS,TCL,Expected Cash Inflows,314119.0
+18,17.0,BS,TCL,Expected Cash Outflows,-114253.0
+19,17.0,BS,TCL,Insurance Service Expense,29972.0
+20,17.0,BS,TCL,Changes Related to Current Service: Release,-363488.0
+21,17.0,BS,RRA,Insurance Service Expense,1447.0
+22,17.0,BS,RRA,Changes Related to Current Service: Release,-12934.0
+23,17.0,BS,AEA,Accretion of Interest,3018.0
+24,17.0,BS,AEA,Amortised Expense,-27565.0
+25,17.0,PL,PLIR,Release of CSM,350553.0
+26,17.0,PL,PLIR,Release of Risk Adjustment,12934.0
+27,17.0,PL,PLIR,Expected Claims,86229.0
+28,17.0,PL,PLIR,Expected Expenses,28024.0
+29,17.0,PL,PLIR,Recovery of Acquisition Cash Flows,27565.0
+30,17.0,PL,PLIE,Claims Incurred,-86229.0
+31,17.0,PL,PLIE,Expenses Incurred,-28024.0
+32,17.0,PL,PLOE,Amortisation of Acquisition Cash Flows,-27565.0
+33,17.0,PL,PLFGL,Investment Income,33718.0
+34,17.0,PL,PLFGL,Insurance Financial Expense,-29972.0

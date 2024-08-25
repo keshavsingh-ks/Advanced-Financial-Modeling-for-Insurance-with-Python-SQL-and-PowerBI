@@ -1,0 +1,52 @@
+,Period,Statement,Group,Account Name,Amount
+0,0.0,BS,LIR,PV Premiums,7356340.0
+1,0.0,BS,LIR,PV Renewal Commission,-329567.0
+2,0.0,BS,LIR,PV Maintenance Expense Attributable,-277388.0
+3,0.0,BS,LIR,PV Claims,-829443.0
+4,0.0,BS,LIR,PV Attributable Acquisition CFs,-422500.0
+5,0.0,BS,LIR,PV Risk Adjustment CFs,-124416.0
+6,0.0,BS,LIR,TOTAL FULFILLMENT CFs,5373026.0
+7,0.0,BS,LIR,CSM at Initial Recognition,5373026.0
+8,0.0,BS,BEL,Changes Related to Future Service: New Business,-5497442.0
+9,0.0,BS,BEL,Expected Cash Inflows,765000.0
+10,0.0,BS,BEL,Expected Cash Outflows,-492500.0
+11,0.0,BS,BEL,Insurance Service Expense,-206198.0
+12,0.0,BS,ECF,Premiums,765000.0
+13,0.0,BS,ECF,Acquisition Commission,-382500.0
+14,0.0,BS,ECF,Acquisition Expense Attributable,-40000.0
+15,0.0,BS,ECF,Maintenance Expense Attributable,-30000.0
+16,0.0,BS,ECF,Acquisition Expense Non-Attributable,-60000.0
+17,0.0,BS,ECF,Maintenance Expense Non-Attributable,-20000.0
+18,0.0,BS,ECF,Claims,-40000.0
+19,0.0,BS,ACF,Premiums,765000.0
+20,0.0,BS,ACF,Acquisition Commission,-382500.0
+21,0.0,BS,ACF,Acquisition Expense Attributable,-40000.0
+22,0.0,BS,ACF,Maintenance Expense Attributable,-30000.0
+23,0.0,BS,ACF,Acquisition Expense Non-Attributable,-60000.0
+24,0.0,BS,ACF,Maintenance Expense Non-Attributable,-20000.0
+25,0.0,BS,ACF,Claims,-40000.0
+26,0.0,BS,ERA,Claims,-6000.0
+27,0.0,BS,ARA,Claims,-6000.0
+28,0.0,BS,CSM,Changes Related to Future Service: New Business,5373026.0
+29,0.0,BS,CSM,Insurance Service Expense,214921.0
+30,0.0,BS,CSM,Changes Related to Current Service: Release,-438283.0
+31,0.0,BS,TCL,Expected Cash Inflows,765000.0
+32,0.0,BS,TCL,Expected Cash Outflows,-492500.0
+33,0.0,BS,TCL,Insurance Service Expense,13700.0
+34,0.0,BS,TCL,Changes Related to Current Service: Release,-444283.0
+35,0.0,BS,RRA,Changes Related to Future Service: New Business,124416.0
+36,0.0,BS,RRA,Insurance Service Expense,4977.0
+37,0.0,BS,RRA,Changes Related to Current Service: Release,-6000.0
+38,0.0,BS,AEA,New Acquisition Expense,422500.0
+39,0.0,BS,AEA,Accretion of Interest,16900.0
+40,0.0,BS,AEA,Amortised Expense,-34464.0
+41,0.0,PL,PLIR,Release of CSM,438283.0
+42,0.0,PL,PLIR,Release of Risk Adjustment,6000.0
+43,0.0,PL,PLIR,Expected Claims,40000.0
+44,0.0,PL,PLIR,Expected Expenses,30000.0
+45,0.0,PL,PLIR,Recovery of Acquisition Cash Flows,34464.0
+46,0.0,PL,PLIE,Claims Incurred,-40000.0
+47,0.0,PL,PLIE,Expenses Incurred,-30000.0
+48,0.0,PL,PLOE,Amortisation of Acquisition Cash Flows,-34464.0
+49,0.0,PL,PLFGL,Investment Income,15412.0
+50,0.0,PL,PLFGL,Insurance Financial Expense,-13700.0
